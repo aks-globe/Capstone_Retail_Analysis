@@ -6,10 +6,10 @@ https://docs.google.com/presentation/d/1eA2tT3Uf5Lsd-rcMpY0TgOCK4w_HnFhA/edit?us
 
 The objective of this project is to develop a Power BI dashboard using the Retail Database to provide comprehensive insights into the retail business's performance. The dashboard will focus on sales, product, customer, and demographic analysis, aiming to facilitate data-driven decision-making, optimize sales strategies, and enhance customer experiences. The goal is to empower retail stakeholders with actionable insights, enabling them to identify top-selling products, customer preferences, and target demographics. The dashboard will offer valuable insights and recommendations for targeted marketing, inventory optimization, and personalized customer experiences. The final deliverables will include a report and presentation showcasing the dashboard's findings and significance, serving as a powerful tool for retail stakeholders to improve business strategies and achieve success in the competitive retail market.
 
-Dataset Description
+**Dataset Description**
 The retail dataset provided contains valuable information about a retail company, capturing various aspects of its operations. This dataset is essential for understanding and analyzing the company's offices, employees, customers, products, product lines, orders, order details, and payments.
 
-Table Explanations
+**Table Explanations**
 Offices Table
 This table stores information about the different offices of the retail company, including the office code, city, phone number, address, state, country, postal code, and territory. Each office is uniquely identified by its office code.
 
